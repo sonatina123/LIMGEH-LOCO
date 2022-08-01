@@ -1,0 +1,23 @@
+{
+  "a": {
+    "prefix": "접속사",
+    "email": "이메일",
+    "pw": "비밀번호",
+    "deviceUUID": "uuid",
+    "deviceName": "name"
+  },
+  "b": {
+    "prefix": "접속사",
+    "email": "이메일",
+    "pw": "비밀번호",
+    "deviceUUID": "uuid",
+    "deviceName": "name"
+  },
+  "c": {
+    "prefix": "접속사",
+    "email": "이메일",
+    "pw": "비밀번호",
+    "deviceUUID": "uuid",
+    "deviceName": "name"
+  }
+}

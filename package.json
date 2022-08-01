@@ -1,0 +1,22 @@
+{
+  "name": "v4_node_kakao",
+  "version": "1.6.0",
+  "description": "Last LIMGEH-BOT Release",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "comcigan-parser": "^1.0.0",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.4.24",
+    "node-kakao": "^4.5.0",
+    "nodejs-captcha": "^0.0.6",
+    "nodemailer": "^6.7.2",
+    "nodemailer-smtp-transport": "^2.4.2",
+    "ultimate-text-to-image": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LIMGEH",
+  "license": "MIT"
+}

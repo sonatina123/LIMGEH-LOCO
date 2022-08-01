@@ -1,0 +1,1449 @@
+{
+  "os": [
+    {
+      "t": 1,
+      "ct": "",
+      "jct": ""
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_005.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_008.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_002.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_009.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_004.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_007.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_006.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_003.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_001.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    },
+    {
+      "t": 4,
+      "ct": "{\"name\":\"(이모티콘)\",\"path\":\"4412207.emot_0010.webp\",\"alt\":\"\",\"itemType\":\"STICKER_ANI\",\"xconVersion\":-1,\"width\":0,\"height\":0,\"type\":\"\"}"
+    }
+  ]
+}
